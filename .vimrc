@@ -74,5 +74,7 @@ try
 catch
 endtry
 
+" Abbreviations
 
+ab !i !important
 
